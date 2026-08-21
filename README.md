@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center">
-  <h3>🔗 Connect with me</h3>
+  <h3>Connect with me</h3>
   <a href="mailto:Daniel.lpz.crcr@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
   <br><br>
 
-  <b>OS & Design</b><br><br>
+  <b>OS</b><br><br>
   <img src="https://img.shields.io/badge/EndeavourOS-1793d1?style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS" />
   <img src="https://img.shields.io/badge/Hyprland-00A9FF?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
