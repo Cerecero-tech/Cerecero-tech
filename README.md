@@ -1,4 +1,3 @@
-<img width="736" height="414" alt="Da Vinci&#39;s creation of adam ASCII Wallpaper" src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" />
 
 <!-- HEADER BANNER SECTION -->
 <div align="center">
