@@ -1,6 +1,6 @@
 <!-- HEADER BANNER SECTION -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 17 px;" />
+  <img src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 14 px;" />
  <h1>Welcome to Cerecero's GitHub.</h1>
   <br><br>
 </div>
