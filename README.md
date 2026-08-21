@@ -2,8 +2,7 @@
 
 <!-- HEADER BANNER SECTION -->
 <div align="center">
-  <!-- Replace the src URL below with your dragged-and-dropped GitHub image URL -->
-  <img src="<img width="736" height="414" alt="Da Vinci&#39;s creation of adam ASCII Wallpaper" src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" />" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 15px;" />
   <br><br>
 </div>
 
