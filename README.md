@@ -1,6 +1,6 @@
-
 <!-- HEADER BANNER SECTION -->
 <div align="center">
+  <h1>Welcome to Cerecero's GitHub.</h1>
   <img src="https://github.com/user-attachments/assets/52ad6511-0d19-47d3-aa68-a572a9749032" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 15px;" />
   <br><br>
 </div>
@@ -11,7 +11,7 @@
   <a href="mailto:Daniel.lpz.crcr@outlook.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/daniel-alejandro-l%C3%B3pez-cerecero-0295142a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI1sqHoJvRZqOmVJWpcEZJA%3D%3D)">
+  <a href="https://www.linkedin.com/in/daniel-alejandro-l%C3%B3pez-cerecero-0295142a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -66,7 +66,6 @@
 
   <p><b>PCB Design</b></p>
   <img src="https://img.shields.io/badge/Altium_Designer-A59B39?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
-  <!-- Proteus doesn't have an official simple-icon logo, so we use a clean text-based badge matching the aesthetic -->
   <img src="https://img.shields.io/badge/Proteus-02599C?style=for-the-badge" alt="Proteus" />
   
 </div>
@@ -78,16 +77,16 @@
   
   <p><b>GitHub Stats & Top Languages</b></p>
   <a href="https://github.com/Cerecero-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerecero-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <a href="https://github.com/Cerecero-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cerecero-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   
   <br><br>
   
   <p><b>Contribution Streak</b></p>
   <a href="https://github.com/Cerecero-tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerecero-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
