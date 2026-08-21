@@ -20,7 +20,7 @@
 <div align="center">
   <h3>About me</h3>
   <p>Hello, I'm <b>Daniel Alejandro López Cerecero</b> — an Electronic Engineering student focused on Embedded Systems, PCB development, and low-level firmware architecture.</p>
-  <p>I value strict memory management, precise mathematical modeling, and building seamless integrations between custom silicon boards and software.</p>
+  <p>I strictly value being Honorable, Disciplined and never giving up. Not against AI but against incompetence regarding it.</p>
   
   <b>Electronics & Firmware Engineer</b><br>
   <i>C / Python / ESP-IDF Architecture</i><br>
